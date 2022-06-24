@@ -1,4 +1,6 @@
 test/dest/*
 test/src/*
+!test/dest/.gitkeep
+!test/src/.gitkeep
 node_modules
 .env
