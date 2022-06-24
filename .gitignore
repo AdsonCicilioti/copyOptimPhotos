@@ -1,2 +1,4 @@
 test/dest/*
 test/src/*
+node_modules
+.env
